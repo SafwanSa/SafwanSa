@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on yumealz<br>🌱 I’m currently learning Django<br>🚀 I’m looking to collaborate on Django projects<br>💬 Ask me about anything on Twitter @safwanoz<br>📫 How to reach me: safwan9f@gmail.com<br>⚡ Fun fact: This README file has a bug 🤭
+🔭 I’m currently working on yumealz<br>🌱 I’m currently learning Blockchain technologies<br>🚀 I’m looking to collaborate on Django projects<br>💬 Ask me about anything on Twitter @safwanoz<br>📫 How to reach me: safwan9f@gmail.com<br>⚡ Fun fact: This README file has a bug 🤭
 
 
 ## 🌐 Socials:
